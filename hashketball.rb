@@ -105,7 +105,7 @@ def num_points_scored(name)
   game_hash.each do |away_home, team_name|
     team_name.each do |attribute, data|
       if attribute == :players
-        
+        data.each do |
         
     end 
   end 
