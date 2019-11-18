@@ -21,9 +21,9 @@ def game_hash
         ]
     }
     away: {
-      team_name: 
-      colors: 
-      players: 
+      team_name: "ass"
+      colors: "ass"
+      players: "ass"
     }
   }
 end 
