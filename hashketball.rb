@@ -19,7 +19,7 @@ def game_hash
             player_name: "Reggie Evans"
           }
         ]
-    }
+    },
     away: {
       team_name: "ass"
       colors: "ass"
