@@ -13,7 +13,7 @@ def game_hash
             assissts: 
             steals: 
             blocks: 
-            slam_dunks
+            slam_dunks: 
           },
           {}
         ]
