@@ -104,6 +104,7 @@ end
 def num_points_scored(name)
   game_hash.each do |away_home|
     pp game_hash
+  end 
 end 
 
 
