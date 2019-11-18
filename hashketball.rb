@@ -6,6 +6,14 @@ def game_hash
       players: [
           {
             player_name: 
+            number: 
+            shoe: 
+            points: 
+            rebounds: 
+            assissts: 
+            steals: 
+            blocks: 
+            slam_dunks
           },
           {}
         ]
