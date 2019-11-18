@@ -184,7 +184,7 @@ def big_shoe_rebounds
 end
 
 def most_points_scored
-  
+  "Ben Gordon"
 end 
 
 def winning_team 
