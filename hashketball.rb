@@ -15,7 +15,17 @@ def game_hash
             blocks: 
             slam_dunks: 
           },
-          {}
+          {
+            player_name: 
+            number: 
+            shoe: 
+            points: 
+            rebounds: 
+            assissts: 
+            steals: 
+            blocks: 
+            slam_dunks: 
+          }
         ]
     }
     away: {
